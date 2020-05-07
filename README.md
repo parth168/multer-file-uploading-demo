@@ -1,6 +1,6 @@
-# NodeUploads
+# multer-file-uploading-demo
 
-An example of how to upload image,audio,video locally with Node.js and Multer.
+File uploading in node js using multer and ejs view engine
 
 ### Installation
 
